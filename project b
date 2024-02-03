@@ -1,0 +1,2 @@
+[project_B]
+172.31.13.234 ansible_user=ec2-user 
